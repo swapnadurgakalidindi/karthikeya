@@ -16,6 +16,9 @@ public class paramtrzn {
 	
 	
   @Test
+
+
+
   public void meterizatn() throws Exception {
 	  paramtrzn p1=new paramtrzn();
 	  p1.openBrowser();
